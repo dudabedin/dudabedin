@@ -6,7 +6,7 @@ Meu nome é Eduarda Bedin da Silva
 
 -Estou me desenvolvendo no JavaScript
 
--Utilizo esse espaço para compartilhar meus projetos ddesenvolvidos.
+-Utilizo esse espaço para compartilhar meus projetos desenvolvidos.
 
 
 
